@@ -1,0 +1,8 @@
+name= 'Ana Martinez'
+age= 18
+def calculate_premium(name,age):
+  if age>25:
+    premium=75
+  else:
+    premium=100
+  print(name+''s premium is $'+premium)
